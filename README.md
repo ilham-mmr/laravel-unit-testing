@@ -1,3 +1,6 @@
+## Notes
+the study notes are written in indonesian and can be found <a href="https://docs.google.com/document/d/1vfQxbYxPp7HwBFo7P8ry1uyW-9S-XFd_L1AfU7OuGHk">here</a>. Feel free to comment, propose or add something to the notes/repo.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
